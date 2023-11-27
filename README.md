@@ -1,6 +1,6 @@
-# Student-Management-System
+# Student-Data-Management
 
-A Student Management System to manage data of the Students.
+A Student Data Management System to manage data of the Students.
 
 Tech Used : Java, Swing GUI, JDBC<br>
 Database : MySQL<br>
